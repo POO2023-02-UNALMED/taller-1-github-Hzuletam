@@ -1,0 +1,2 @@
+creo que antes no permitia que se hiciera un commit solo creando la carpeta por que no habia ningun archivo dentro, y cuando se creoó un archivo y la creacion de la carpeta
+era requerida ahí si permitpia un commit
