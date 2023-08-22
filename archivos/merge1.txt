@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+harrison Zuleta Montoya
+espero poder mejorar ydesarrollar de mejor forma mis habilidades programando y lograrhacer un proyecto entretenido y 
+divertido de hacer
+creo que antes no permitia que se hiciera un commit solo creando la carpeta por que no habia ningun archivo dentro, y cuando se creoó un archivo y la creacion de la carpeta
+era requerida ahí si permitpia un commit
+>>>>>>> 4cad2dd9b4a30b908d7edb9e3c185e8048754886
