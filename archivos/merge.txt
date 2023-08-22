@@ -1,0 +1,1 @@
+tal vez por que crear una carpeta no es un cambio mayor no se activó el botón de commit, y cuando hice un archivo dentro de la misma carpeta entonces sí requería de un push
