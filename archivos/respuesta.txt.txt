@@ -1,1 +1,0 @@
-el botón de commit no se activaba y me tocó hacer el push desde el botón push 
